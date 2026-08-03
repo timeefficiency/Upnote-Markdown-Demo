@@ -39,7 +39,7 @@ Here are some tips to get the most out of UpNote.
 
 ### Add an image
 
-![](Files/upnote_sample_image.png)<br>
+![](http://localhost:9425/images/upnote_sample_image.png)<br>
 
 <br>
 
@@ -92,3 +92,4 @@ $$x=\\frac{-b\\pm \\sqrt{b^2-4ac}}{2a}$$
 ### Thank you for trying UpNote!
 
 We hope UpNote will be useful for you. If you enjoy UpNote, please take a moment to rate it on the Apple App Store, Google Play Store or Microsoft Store. We greatly appreciate your support!
+
