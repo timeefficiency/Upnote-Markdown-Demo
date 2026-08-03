@@ -18,7 +18,7 @@ Highlight text in multiple colors: orange, red, blue, yellow, green and purple.
 Select your preferred font in Settings.
 
 Add an image
-
+![alt text](upnote_sample_image-1.png)
 
 Add a quote
 Knowing yourself is the beginning of all wisdom.
