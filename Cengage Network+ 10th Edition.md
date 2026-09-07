@@ -1,15 +1,8 @@
----
-date: 2026-09-07 07:26:40
-created: 2026-09-07 06:55:53
-categories:
-- TECH_TRAINING / 2026_TRAINING
----
-
 ## Cengage Network+ 10th Edition 
 
-Author: Jill West
+**Author: Jill West**
 
-Date: Sep 7, 2026
+**Date: Sep 7, 2026**
 
 * * *
 
@@ -54,8 +47,6 @@ This method supports local activation for Synology Active Backup for Business, S
 - Please perform the operation on the Synology DSM (e.g. address bar displays 192.168.X.X). Do not go to the official website (e.g. address bar displays activation.synology.com).
 
 <br>
-
-![](Files/image%203.png)
 
 <br>
 
@@ -194,10 +185,6 @@ Sep 5, 2026, 8:18 PM
 - [ ] checklist 2
 - [ ] checklist 3
 
-### collapse 1
-
-**content for collapse 1**
-
 <br>
 
 ## Chapter two:
@@ -266,6 +253,6 @@ Before modifying the GPO, restrict who can use or manage the printer directly at
 
 ## Chapter Four: Another Collapsible
 
-![](Files/image%204.png)
+![](Files/image%203.png)
 
 <br>
