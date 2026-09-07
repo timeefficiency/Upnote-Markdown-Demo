@@ -263,4 +263,24 @@ Before modifying the GPO, restrict who can use or manage the printer directly at
 
   
 
+**~~==Trying to get things sorted==~~**
+
+- **~~one~~**
+- **~~two~~**
+- [ ] **~~one~~**
+- [ ] **~~two~~**
+
+**~~
+
+* * *
+
+<br>
+<br>
+~~**
+
+![](Files/GitHub_Lockup_Black.png)
+
+[social\_share\_buttons.pdf (193 kB)](Files/social_share_buttons.pdf)  
+<br>
+
 <br>
