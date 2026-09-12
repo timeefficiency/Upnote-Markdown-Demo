@@ -1,6 +1,6 @@
 ## Cengage Network+ 10th Edition 
 
-**Author: Jill West**
+**Author: Jill West - Francis**
 
 **Date: Sep 7, 2026**
 
